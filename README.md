@@ -1,9 +1,12 @@
 🧭 Anotações da Faculdade
 
 Este repositório contém minhas anotações das disciplinas da faculdade, organizadas em pastas para facilitar navegação, revisão e estudo.  
-Todos os conteúdos estão em formato Markdown.
+
+Todos os conteúdos estão em formato Markdown para que eu possa treinar e que fique visualmente organizado.
 
 ---
+## 📂 Pastas de apoio
+
 
 ## 📚 Disciplinas
 
