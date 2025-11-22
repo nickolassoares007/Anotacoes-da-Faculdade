@@ -4,12 +4,13 @@ Este é um resumo das funções mais importantes do Markdown para criar anotaç�
 
 ---
 
-```md
+<!-- É dessa maneira que se coloca um comentário de invisvel que não vai ser visto no markdown -->
 
 ## 🏷 Títulos
 
-Use `#` para criar títulos e subtítulos.
+```md
 
+Use `#` para criar títulos e subtítulos.
 
 # Título 1
 ## Título 2
@@ -17,9 +18,10 @@ Use `#` para criar títulos e subtítulos.
 #### Título 4
 
 ```
+<!-- Depois de usar o ```md no começo da seção que você quer marcar, use no final ``` para fechar -->
+
 ## ✍️ Ênfase (itálico e negrito)
 
-Copiar código
 *itálico*
 **negrito**
 ***negrito + itálico***
@@ -48,7 +50,7 @@ Lista ordenada
 
 🖼 Imagens
 
-![texto alternativo](caminho/da/imagem.png)
+![Imagem teste](https://m.media-amazon.com/images/S/pv-target-images/81ef275effa427553a847bc220bebe1dc314b2e79d00333f94a6bcadd7cce851._SX1080_FMjpg_.jpg)
 
 ##📦 Blocos de código
 
@@ -56,10 +58,10 @@ Use a função `print()` para exibir valores.
 
 Bloco com linguagem (para highlight no GitHub)
 
-
+```python
 def soma(a, b):
     return a + b
-
+```
 ---
 
 ## 🧱 Citações
@@ -91,3 +93,9 @@ def soma(a, b):
 > **Atenção:** Isso requer cuidado.
 
 🗺 Diagramas Mermaid (renderizam direto no GitHub)
+
+```mermaid
+flowchart TD
+    A[Início] --> B[Processo]
+    B --> C[Fim]
+```
