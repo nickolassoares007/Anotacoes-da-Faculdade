@@ -45,8 +45,8 @@ Lista ordenada
 
 📁 Links internos (para pastas e arquivos no GitHub)
 
-[Arquitetura de Computadores](Arquitetura%20de%20computadores/)
-[Resumo de Algoritmos](resumo-algoritmos.md)
+- [Arquitetura de Computadores](Arquitetura%20de%20computadores/)
+- [Resumo de Algoritmos](resumo-algoritmos.md)
 
 🖼 Imagens
 
