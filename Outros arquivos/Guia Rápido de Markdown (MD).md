@@ -8,7 +8,7 @@ Este é um resumo das funções mais importantes do Markdown para criar anotaç�
 
 Use `#` para criar títulos e subtítulos.
 
-```md
+
 # Título 1
 ## Título 2
 ### Título 3
