@@ -5,8 +5,9 @@ Este repositório contém minhas anotações das disciplinas da faculdade, organ
 Todos os conteúdos estão em formato Markdown para que eu possa treinar e que fique visualmente organizado.
 
 ---
-## 📂 Pastas de apoio
 
+## 📂 Pastas de apoio
+- [Outros arquivos](Outros%20arquivos/)
 
 ## 📚 Disciplinas
 
@@ -16,3 +17,5 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 - [Orientação de Objetos](Orientação%20de%20objetos/)
 - [Programação Web](Programação%20Web/)
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
+
+![Engenharia de software](https://blog.mbauspesalq.com/wp-content/uploads/2023/06/atuacao-engenheiro-de-software-1024x576.jpg)
