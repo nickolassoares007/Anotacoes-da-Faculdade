@@ -22,9 +22,9 @@ Use `#` para criar títulos e subtítulos.
 
 ## ✍️ Ênfase (itálico e negrito)
 
-*itálico*
-**negrito**
-***negrito + itálico***
+- *itálico*
+- **negrito**
+- ***negrito + itálico***
 
 ## 📌 Listas
 Lista não ordenada
@@ -66,7 +66,6 @@ def soma(a, b):
 
 ## 🧱 Citações
 
-
 > Isso é uma citação.
 > Pode ter várias linhas.
 
@@ -92,7 +91,7 @@ def soma(a, b):
 > **Nota:** Isso é importante.
 > **Atenção:** Isso requer cuidado.
 
-🗺 Diagramas Mermaid (renderizam direto no GitHub)
+## 🗺 Diagramas Mermaid (renderizam direto no GitHub)
 
 ```mermaid
 flowchart TD
