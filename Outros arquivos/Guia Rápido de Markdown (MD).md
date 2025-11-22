@@ -4,6 +4,8 @@ Este é um resumo das funções mais importantes do Markdown para criar anotaç�
 
 ---
 
+```md
+
 ## 🏷 Títulos
 
 Use `#` para criar títulos e subtítulos.
@@ -14,6 +16,7 @@ Use `#` para criar títulos e subtítulos.
 ### Título 3
 #### Título 4
 
+```
 ## ✍️ Ênfase (itálico e negrito)
 
 Copiar código
@@ -53,7 +56,7 @@ Use a função `print()` para exibir valores.
 
 Bloco com linguagem (para highlight no GitHub)
 
-```python
+
 def soma(a, b):
     return a + b
 
@@ -61,7 +64,7 @@ def soma(a, b):
 
 ## 🧱 Citações
 
-```md
+
 > Isso é uma citação.
 > Pode ter várias linhas.
 
@@ -86,4 +89,5 @@ def soma(a, b):
 
 > **Nota:** Isso é importante.
 > **Atenção:** Isso requer cuidado.
+
 🗺 Diagramas Mermaid (renderizam direto no GitHub)
