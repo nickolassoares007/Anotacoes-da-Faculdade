@@ -6,8 +6,10 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 ---
 
-## 📂 Pastas de apoio
+## 📂 Pastas de apoio aos estudos
 - [Outros arquivos](Outros%20arquivos/)
+- [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
+
 
 ## 📚 Disciplinas
 
