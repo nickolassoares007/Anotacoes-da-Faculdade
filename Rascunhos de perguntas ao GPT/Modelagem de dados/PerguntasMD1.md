@@ -113,8 +113,11 @@ O IMS falhou porque confundia estrutura com relação.
 O N:N é uma relação bidirecional entre conjuntos, formalmente um subconjunto do produto cartesiano.
 
 O modelo relacional brilhou porque abstraiu a essência dos dados da forma como são fisicamente guardados.
+
 ---
+
 Quero que explique o ponto 3 melhor, simplifique para que eu possa entender
+
 ---
 
 Primeiro: o que é “representação lógica”?
@@ -159,8 +162,11 @@ Resumo em uma frase:
 O modelo relacional separa o que os dados significam (lógica) de como eles são guardados (física), permitindo que você pense em termos de ideias e relações, e não de onde os bits estão no disco.
 
 Quer que eu te mostre como essa separação aparece na prática, com um pequeno exemplo de código SQL versus como seria em um modelo físico antigo (tipo IMS)? Isso mostra exatamente o salto de abstração que Codd criou.
+
 ---
+
 okay, mas então como o sistema faz essa busca?
+
 ---
 
 Excelente pergunta — e agora chegamos à mágica concreta da coisa.
