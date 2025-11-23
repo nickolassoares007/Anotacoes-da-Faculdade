@@ -1,4 +1,4 @@
-#🧭 Anotações da Faculdade - Guia
+# Anotações da Faculdade - Guia 🧭
 
 Este repositório contém minhas anotações das disciplinas da faculdade, organizadas em pastas para facilitar navegação, revisão e estudo.  
 
