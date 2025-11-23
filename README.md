@@ -1,4 +1,4 @@
-🧭 Anotações da Faculdade
+#🧭 Anotações da Faculdade - Guia
 
 Este repositório contém minhas anotações das disciplinas da faculdade, organizadas em pastas para facilitar navegação, revisão e estudo.  
 
@@ -7,8 +7,11 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 ---
 
 ## 📂 Pastas de apoio aos estudos
-- [Outros arquivos](Outros%20arquivos/)
-- [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
+- 🗄️ [Outros arquivos](Outros%20arquivos/)
+- 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
+- 📖 [Revisões e Conceitos](Revisão%20e%20Conceitos/)
+- 🔗 [Links](Links/)
+- 🧠 [Exercícios](Exercícios/)
 
 
 ## 📚 Disciplinas
@@ -19,5 +22,7 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 - [Orientação de Objetos](Orientação%20de%20Objetos/)
 - [Programação Web](Programação%20Web/)
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
+
+---
 
 ![Engenharia de software](https://blog.mbauspesalq.com/wp-content/uploads/2023/06/atuacao-engenheiro-de-software-1024x576.jpg)
