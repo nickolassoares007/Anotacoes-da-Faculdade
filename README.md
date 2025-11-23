@@ -23,6 +23,14 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 - [Programação Web](Programação%20Web/)
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
 
+## Conceitos rápidos ⚡
+
+| Disciplina | Conceito |
+|--------|-----------|
+| Matemática Aplicada | - Potenciação, Radiciação e Logaritmo <br> - Teoria dos Conjuntos <br> |
+| Arquitetura de Computadores | - NÚMEROS BINÁRIOS <br> - arquitetura von neumann <br> |
+
+
 ---
 
 ![Engenharia de software](https://blog.mbauspesalq.com/wp-content/uploads/2023/06/atuacao-engenheiro-de-software-1024x576.jpg)
