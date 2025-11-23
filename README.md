@@ -25,9 +25,10 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 ## Conceitos rápidos ⚡
 
+
 | Disciplina | Conceito |
 |--------|-----------|
-| Matemática Aplicada | - Potenciação, Radiciação e Logaritmo <br> - Teoria dos Conjuntos <br> |
+| Matemática Aplicada | - [Potenciação, Radiciação e Logaritmo](Revisão e Conceitos/Potenciação, Radiciação e Logaritmo.md) <br> - [Teoria dos Conjuntos](Revisão e Conceitos/Teoria dos Conjuntos.md) <br> |
 | Arquitetura de Computadores | - NÚMEROS BINÁRIOS <br> - arquitetura von neumann <br> |
 
 
