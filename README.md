@@ -27,9 +27,10 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 
 | Disciplina | Conceito |
-|--------|-----------|
-| Matemática Aplicada | - [Potenciação, Radiciação e Logaritmo](Revisão e Conceitos/Potenciação, Radiciação e Logaritmo.md) <br> - [Teoria dos Conjuntos](Revisão e Conceitos/Teoria dos Conjuntos.md) <br> |
-| Arquitetura de Computadores | - NÚMEROS BINÁRIOS <br> - arquitetura von neumann <br> |
+|-----------|----------|
+| Matemática Aplicada | - [Potenciação, Radiciação e Logaritmo](Revis%C3%A3o%20e%20Conceitos/Potencia%C3%A7%C3%A3o,%20Radicia%C3%A7%C3%A3o%20e%20Logaritmo.md) <br> - [Teoria dos Conjuntos](Revis%C3%A3o%20e%20Conceitos/Teoria%20dos%20Conjuntos.md) |
+| Arquitetura de Computadores | - NÚMEROS BINÁRIOS <br> - arquitetura von neumann |
+
 
 
 ---
