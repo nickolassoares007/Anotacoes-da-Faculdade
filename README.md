@@ -12,9 +12,9 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 ## 📚 Disciplinas
 
 - [Arquitetura de Computadores](Arquitetura%20de%20Computadores/)
-- [Matemática Aplicada](Matematica%20aplicada/)
+- [Matemática Aplicada](Matemática%20Aplicada/)
 - [Modelagem de dados](Modelagem%20de%20dados/)
-- [Orientação de Objetos](Orientação%20de%20objetos/)
+- [Orientação de Objetos](Orientação%20de%20Objetos/)
 - [Programação Web](Programação%20Web/)
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
 
