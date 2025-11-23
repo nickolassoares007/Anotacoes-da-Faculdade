@@ -38,7 +38,9 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 | Nome | Link  |
 |------|-------|
-|      |       |
+| Sites de consulta    |- [Geeks for geeks](https://www.geeksforgeeks.org/) |
+| Recursos visuais    |- [Visual Go](https://visualgo.net/en) <br> - [Algorithm visualizer](https://algorithm-visualizer.org/)|
+| Sites de exercicios    |- [Edabit](https://edabit.com/challenges) |
 
 ---
 
