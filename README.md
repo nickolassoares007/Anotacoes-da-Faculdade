@@ -30,10 +30,11 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 |-----------|----------|
 | Matemática Aplicada | - [Potenciação, Radiciação e Logaritmo](Revis%C3%A3o%20e%20Conceitos/Potencia%C3%A7%C3%A3o,%20Radicia%C3%A7%C3%A3o%20e%20Logaritmo.md) <br> - [Teoria dos Conjuntos](Revis%C3%A3o%20e%20Conceitos/Teoria%20dos%20Conjuntos.md) |
 | Arquitetura de Computadores | |
-| Técnicas de Desenvolvimento de Algoritmos | |
+| Técnicas de Desenvolvimento de Algoritmos | - [Tipos de Algoritmos](https://github.com/nickolassoares007/Anotacoes-da-Faculdade/tree/main/Tecnicas%20de%20desenvolvimento%20de%20algoritmos/Tipos%20de%20algoritmos) |
 | Orientação de Objetos | |
 | Modelagem de dados | |
 
+https://github.com/nickolassoares007/Anotacoes-da-Faculdade/tree/main/Tecnicas%20de%20desenvolvimento%20de%20algoritmos/Tipos%20de%20algoritmos
 ## Links Rápidos 🔗
 
 | Nome | Link  |
