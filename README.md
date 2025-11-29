@@ -9,9 +9,10 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 ## 📂 Pastas de apoio aos estudos
 - 🗄️ [Outros arquivos](Outros%20arquivos/)
 - 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
-- 📖 [Revisões e Conceitos](Revisão%20e%20Conceitos/)
+- 📖 [Revisões](Revisão%20e%20Conceitos/)
 - 🔗 [Links](Links/)
 - 🧠 [Exercícios](Exercícios/)
+- 🔑 [Palavras chave](Palavras%20chave)
 
 
 ## 📚 Disciplinas
@@ -23,7 +24,7 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 - [Programação Web](Programação%20Web/)
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
 
-## Conceitos rápidos ⚡
+## Conceitos rápidos para revisão ⚡
 
 
 | Disciplina | Conceito |
@@ -34,7 +35,6 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 | Orientação de Objetos | |
 | Modelagem de dados | |
 
-https://github.com/nickolassoares007/Anotacoes-da-Faculdade/tree/main/Tecnicas%20de%20desenvolvimento%20de%20algoritmos/Tipos%20de%20algoritmos
 ## Links Rápidos 🔗
 
 | Nome | Link  |
