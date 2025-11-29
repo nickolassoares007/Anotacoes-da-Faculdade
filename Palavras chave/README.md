@@ -115,20 +115,7 @@ No problema das N-Rainhas, escolher primeiro posições com menor chance de conf
 
 # N
 
-<details><summary>Problemas combinatórios</summary>
 
-São problemas que envolvem testar muitas combinações possíveis de escolhas.
-O número de possibilidades costuma crescer de forma exponencial.
-
-Exemplos:  
-– Sudoku  
-– N-Rainhas  
-– knapsack  
-– subsets  
-
-É o território natural do backtracking.
-
-</details>
 
 ---
 
@@ -150,6 +137,21 @@ Usado em:
 – testes automatizados  
 – criptografia  
 – simulações
+
+</details>
+
+<details><summary>Problemas combinatórios</summary>
+
+São problemas que envolvem testar muitas combinações possíveis de escolhas.
+O número de possibilidades costuma crescer de forma exponencial.
+
+Exemplos:  
+– Sudoku  
+– N-Rainhas  
+– knapsack  
+– subsets  
+
+É o território natural do backtracking.
 
 </details>
 
