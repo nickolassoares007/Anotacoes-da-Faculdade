@@ -2,6 +2,7 @@
 
 ## Índice
 - [Backtracking](#backtracking)
+   - [Leia mais](https://github.com/nickolassoares007/Anotacoes-da-Faculdade/blob/main/Tecnicas%20de%20desenvolvimento%20de%20algoritmos/Tipos%20de%20algoritmos/Categorias/Backtracking.md)
 - [Branch and Bound](#branch-and-bound)
 - [Brute Force](#brute-force)
 - [Divide and Conquer](#divide-and-conquer)
