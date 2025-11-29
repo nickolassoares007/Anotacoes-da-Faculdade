@@ -88,8 +88,13 @@ Essa mentalidade aparece em algoritmos, em compiladores, na modelagem de requisi
 
 ---
 
-🔍 Mini-Reflexão
+##🔍 Mini-Reflexão
 
 >Problemas com muitas possibilidades, mas poucas válidas, são perfeitos para backtracking.
 
 O segredo está em encontrar boas 'heurísticas' para eliminar caminhos cedo, economizando tempo — e isso é puro pensamento de Engenharia de Software.
+
+##Links
+
+- https://pt.stackoverflow.com/questions/103184/o-que-%C3%A9-um-algoritmo-backtracking
+- https://medium.com/@andreaiacono/backtracking-explained-7450d6ef9e1a
