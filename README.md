@@ -18,10 +18,17 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 ## 📚 Disciplinas
 
 - [Arquitetura de Computadores](Arquitetura%20de%20Computadores/)
+- [Banco De Dados]()
+- [Engenharia De Requisitos E Processos De Software]()
+- [Estruturas De Dados Lineares]()
+- [Interface Humano-computador]()
 - [Matemática Aplicada](Matemática%20Aplicada/)
 - [Modelagem de dados](Modelagem%20de%20dados/)
+- [Modelos De Processos De Software]()
 - [Orientação de Objetos](Orientação%20de%20Objetos/)
 - [Programação Web](Programação%20Web/)
+- [Projeto De Software]()
+- [Sistemas Operacionais]()
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
 
 ## Conceitos rápidos para revisão ⚡
