@@ -5,6 +5,9 @@ Este repositório contém minhas anotações das disciplinas da faculdade, organ
 Todos os conteúdos estão em formato Markdown para que eu possa treinar e que fique visualmente organizado.
 
 ---
+## 📄 Guia de temas e Disciplinas
+
+[Clique aqui para vizualizar](Disciplinas%20e%20temas/)
 
 ## 📚 Disciplinas
 
@@ -24,12 +27,12 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 
 ## 📂 Pastas de apoio aos estudos
-- 🗄️ [Outros arquivos](Outros%20arquivos/)
-- 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
-- 📖 [Revisões](Revisão%20e%20Conceitos/)
-- 🔗 [Links](Links/)
 - 🧠 [Exercícios](Exercícios/)
+- 🔗 [Links](Links/)
+- 🗄️ [Outros arquivos](Outros%20arquivos/)
 - 🔑 [Palavras chave](Palavras%20chave)
+- 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
+- 📖 [Conceitos](Revisão%20e%20Conceitos/)
 
 
 ## Conceitos rápidos para revisão ⚡
