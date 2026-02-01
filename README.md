@@ -6,15 +6,6 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 
 ---
 
-## 📂 Pastas de apoio aos estudos
-- 🗄️ [Outros arquivos](Outros%20arquivos/)
-- 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
-- 📖 [Revisões](Revisão%20e%20Conceitos/)
-- 🔗 [Links](Links/)
-- 🧠 [Exercícios](Exercícios/)
-- 🔑 [Palavras chave](Palavras%20chave)
-
-
 ## 📚 Disciplinas
 
 - [Arquitetura de Computadores](Arquitetura%20de%20Computadores/)
@@ -30,6 +21,16 @@ Todos os conteúdos estão em formato Markdown para que eu possa treinar e que f
 - [Projeto De Software]()
 - [Sistemas Operacionais]()
 - [Técnicas de Desenvolvimento de Algoritmos](Tecnicas%20de%20desenvolvimento%20de%20algoritmos/)
+
+
+## 📂 Pastas de apoio aos estudos
+- 🗄️ [Outros arquivos](Outros%20arquivos/)
+- 📝 [Rascunhos de perguntas ao GPT](Rascunhos%20de%20perguntas%20ao%20GPT/)
+- 📖 [Revisões](Revisão%20e%20Conceitos/)
+- 🔗 [Links](Links/)
+- 🧠 [Exercícios](Exercícios/)
+- 🔑 [Palavras chave](Palavras%20chave)
+
 
 ## Conceitos rápidos para revisão ⚡
 
