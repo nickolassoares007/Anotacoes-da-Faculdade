@@ -65,7 +65,7 @@
 
 ## Matemática Aplicada
 - [ ] Lógica matemática
-- [ ] Conjuntos
+- [X] Conjuntos
 - [ ] Funções
 - [ ] Matrizes
 - [ ] Sistemas lineares
